@@ -1,3 +1,3 @@
 # Drums
-# open index.html in your browser
-# press corresponding keys to play sounds
+1)open index.html in your browser
+2)press corresponding keys to play sounds
